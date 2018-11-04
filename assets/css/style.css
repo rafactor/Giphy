@@ -1,0 +1,27 @@
+#categories {
+    /* background-color: grey; */
+    min-width: 100px;
+
+}
+
+.btn {
+    margin: 2px;
+}
+
+.card{
+    min-width: 120px;
+    max-width: 360px;
+
+}
+
+.meta {
+    font-size: 10px !important;
+    font-weight: bold;
+    margin: 0;
+}
+
+.value {
+    font-size: 10px !important;
+    font-weight: normal;
+    margin: 0;
+}
